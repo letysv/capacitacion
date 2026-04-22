@@ -48,11 +48,6 @@
                 Iniciar Sesión
             </button>
         </form>
-        
-        <div class="mt-6 text-center text-sm text-gray-500">
-            <p>Sistema seguro - Acceso autorizado únicamente</p>
-            <p class="text-xs mt-2">Secretaría de Fiscalización Veracruz</p>
-        </div>
     </div>
 </body>
 </html>
